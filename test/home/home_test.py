@@ -17,9 +17,9 @@ class Home_Test:
         driver.implicitly_wait(3)
 
         h = Home(driver)
-        h.enter_values("chowa", "cross", "imthebest", "ntsendifor@gmail.com")
+        h.enter_values("cfor", "cross", "kingcross", "youremail@gmail.com")
         time.sleep(3)
-        h.enter_second("ntsendifor@gmail.com")
+        h.enter_second("youremail@gmail.com")
         h.birth_day()
         h.gender(male="male")
 
