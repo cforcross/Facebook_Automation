@@ -1,0 +1,20 @@
+03/01/2020 12:56:48 AM - SeleniumDriver - INFO: Element Found with locator u_0_mand  locatorTypeid
+03/01/2020 12:56:48 AM - SeleniumDriver - INFO: Data send with locator u_0_mand  locatorTypeid
+03/01/2020 12:56:48 AM - SeleniumDriver - INFO: Element Found with locator u_0_oand  locatorTypeid
+03/01/2020 12:56:48 AM - SeleniumDriver - INFO: Data send with locator u_0_oand  locatorTypeid
+03/01/2020 12:56:48 AM - SeleniumDriver - INFO: Element Found with locator u_0_wand  locatorTypeid
+03/01/2020 12:56:48 AM - SeleniumDriver - INFO: Data send with locator u_0_wand  locatorTypeid
+03/01/2020 12:56:48 AM - SeleniumDriver - INFO: Element Found with locator u_0_rand  locatorTypeid
+03/01/2020 12:56:48 AM - SeleniumDriver - INFO: Data send with locator u_0_rand  locatorTypeid
+03/01/2020 12:56:51 AM - SeleniumDriver - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+03/01/2020 12:57:03 AM - SeleniumDriver - INFO: Element not appeared on the web page
+03/01/2020 12:57:03 AM - SeleniumDriver - INFO: Element Found with locator u_0_rand  locatorTypeid
+03/01/2020 12:57:03 AM - SeleniumDriver - INFO: Data send with locator u_0_rand  locatorTypeid
+03/01/2020 12:57:03 AM - SeleniumDriver - INFO: Element Found with locator dayand  locatorTypeid
+03/01/2020 12:57:07 AM - SeleniumDriver - ERROR: exception error raised
+03/01/2020 12:57:07 AM - SeleniumDriver - INFO: Element Found with locator dayand  locatorTypeid
+03/01/2020 12:57:10 AM - SeleniumDriver - ERROR: exception error raised
+03/01/2020 12:57:10 AM - SeleniumDriver - INFO: Element Found with locator dayand  locatorTypeid
+03/01/2020 12:57:11 AM - SeleniumDriver - ERROR: exception error raised
+03/01/2020 12:57:14 AM - SeleniumDriver - ERROR: Element not Found with locator u_0_7and  locatorTypexpath
+03/01/2020 12:57:14 AM - SeleniumDriver - ERROR: Element not Found with locator u_0_7and  locatorTypeid
